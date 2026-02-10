@@ -27,7 +27,6 @@ Fue creado como práctica de **Programación Orientada a Objetos (POO)** y opera
 - Programación Orientada a Objetos (POO)
 - Herencia
 - Polimorfismo (método `mostrar_datos`)
-- Encapsulación básica
 - Listas
 - Menús interactivos por consola
 - Identificación de registros mediante ID
@@ -49,3 +48,4 @@ Fue creado como práctica de **Programación Orientada a Objetos (POO)** y opera
 
 ```bash
 python Sistema_colegio.py
+
